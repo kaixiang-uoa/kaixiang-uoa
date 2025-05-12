@@ -20,5 +20,5 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
-          config_output: github-metrics.svg
+          config_output: none
           config_debug: yes
