@@ -20,5 +20,5 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
-          config_output: none
+          output_action: none          
           config_debug: yes
