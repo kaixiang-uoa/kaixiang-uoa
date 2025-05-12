@@ -1,3 +1,3 @@
-![Metrics](https://github.com/kaixiang-uoa/kaixiang-uoa/blob/generated/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/kaixiang-uoa/kaixiang-uoa/main/github-metrics.svg)
 
 
