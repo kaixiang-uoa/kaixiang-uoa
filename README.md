@@ -1,3 +1,3 @@
-![Metrics](https://kaixiang-uoa.github.io/kaixiang-uoa/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/kaixiang-uoa?template=classic&config.timezone=Asia%2FShanghai)
 
 
